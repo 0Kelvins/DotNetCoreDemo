@@ -27,8 +27,8 @@ namespace Core.Web
         {
             services.AddMvc();
 
-            services.AddScoped<ITestRepository, TestRepository>();
-            services.AddScoped<ITestService, TestService>();
+            services.AddSingleton<ITestRepository, TestRepository>();
+            services.AddSingleton<ITestService, TestService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
