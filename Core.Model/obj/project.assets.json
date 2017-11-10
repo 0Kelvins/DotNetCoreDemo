@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj",
+      "projectUniqueName": "D:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj",
       "projectName": "Core.Model",
-      "projectPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj",
+      "projectPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj",
       "packagesPath": "H:\\Users\\Like\\.nuget\\packages\\",
-      "outputPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.Model\\obj\\",
+      "outputPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "H:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
