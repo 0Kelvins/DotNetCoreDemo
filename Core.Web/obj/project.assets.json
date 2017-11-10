@@ -12594,11 +12594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\My\\Practice\\MultiCoreDemo\\Core.Web\\Core.Web.csproj",
+      "projectUniqueName": "D:\\My\\Practice\\MultiCoreDemo\\Core.Web\\Core.Web.csproj",
       "projectName": "Core.Web",
-      "projectPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.Web\\Core.Web.csproj",
+      "projectPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.Web\\Core.Web.csproj",
       "packagesPath": "H:\\Users\\Like\\.nuget\\packages\\",
-      "outputPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.Web\\obj\\",
+      "outputPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "H:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12616,14 +12616,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "d:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj": {
-              "projectPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj"
+            "D:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj": {
+              "projectPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.Model\\Core.Model.csproj"
             },
-            "d:\\My\\Practice\\MultiCoreDemo\\Core.BLL\\Core.BLL.csproj": {
-              "projectPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.BLL\\Core.BLL.csproj"
+            "D:\\My\\Practice\\MultiCoreDemo\\Core.BLL\\Core.BLL.csproj": {
+              "projectPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.BLL\\Core.BLL.csproj"
             },
-            "d:\\My\\Practice\\MultiCoreDemo\\Core.DAL\\Core.DAL.csproj": {
-              "projectPath": "d:\\My\\Practice\\MultiCoreDemo\\Core.DAL\\Core.DAL.csproj"
+            "D:\\My\\Practice\\MultiCoreDemo\\Core.DAL\\Core.DAL.csproj": {
+              "projectPath": "D:\\My\\Practice\\MultiCoreDemo\\Core.DAL\\Core.DAL.csproj"
             }
           }
         }
