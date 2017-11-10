@@ -1,0 +1,10 @@
+d:\My\Practice\MultiCoreDemo\Core.DAL\bin\Debug\netstandard2.0\Core.DAL.deps.json
+d:\My\Practice\MultiCoreDemo\Core.DAL\bin\Debug\netstandard2.0\Core.DAL.dll
+d:\My\Practice\MultiCoreDemo\Core.DAL\bin\Debug\netstandard2.0\Core.DAL.pdb
+d:\My\Practice\MultiCoreDemo\Core.DAL\bin\Debug\netstandard2.0\Core.Model.dll
+d:\My\Practice\MultiCoreDemo\Core.DAL\bin\Debug\netstandard2.0\Core.Model.pdb
+d:\My\Practice\MultiCoreDemo\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.csproj.CoreCompileInputs.cache
+d:\My\Practice\MultiCoreDemo\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.AssemblyInfoInputs.cache
+d:\My\Practice\MultiCoreDemo\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.AssemblyInfo.cs
+d:\My\Practice\MultiCoreDemo\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.dll
+d:\My\Practice\MultiCoreDemo\Core.DAL\obj\Debug\netstandard2.0\Core.DAL.pdb

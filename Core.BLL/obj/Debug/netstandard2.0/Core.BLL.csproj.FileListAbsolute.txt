@@ -1,0 +1,12 @@
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.BLL.deps.json
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.BLL.dll
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.BLL.pdb
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.DAL.dll
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.Model.dll
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.Model.pdb
+d:\My\Practice\MultiCoreDemo\Core.BLL\bin\Debug\netstandard2.0\Core.DAL.pdb
+d:\My\Practice\MultiCoreDemo\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.csproj.CoreCompileInputs.cache
+d:\My\Practice\MultiCoreDemo\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.AssemblyInfoInputs.cache
+d:\My\Practice\MultiCoreDemo\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.AssemblyInfo.cs
+d:\My\Practice\MultiCoreDemo\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.dll
+d:\My\Practice\MultiCoreDemo\Core.BLL\obj\Debug\netstandard2.0\Core.BLL.pdb

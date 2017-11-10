@@ -1,0 +1,8 @@
+d:\My\Practice\MultiCoreDemo\Core.Model\bin\Debug\netstandard2.0\Core.Model.deps.json
+d:\My\Practice\MultiCoreDemo\Core.Model\bin\Debug\netstandard2.0\Core.Model.dll
+d:\My\Practice\MultiCoreDemo\Core.Model\bin\Debug\netstandard2.0\Core.Model.pdb
+d:\My\Practice\MultiCoreDemo\Core.Model\obj\Debug\netstandard2.0\Core.Model.csproj.CoreCompileInputs.cache
+d:\My\Practice\MultiCoreDemo\Core.Model\obj\Debug\netstandard2.0\Core.Model.AssemblyInfoInputs.cache
+d:\My\Practice\MultiCoreDemo\Core.Model\obj\Debug\netstandard2.0\Core.Model.AssemblyInfo.cs
+d:\My\Practice\MultiCoreDemo\Core.Model\obj\Debug\netstandard2.0\Core.Model.dll
+d:\My\Practice\MultiCoreDemo\Core.Model\obj\Debug\netstandard2.0\Core.Model.pdb
