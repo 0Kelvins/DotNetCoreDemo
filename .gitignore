@@ -1,4 +1,7 @@
 .vscode
+.idea
 .git
 bin/
+obj/
 Debug/
+Release/
